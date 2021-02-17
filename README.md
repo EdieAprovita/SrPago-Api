@@ -4,7 +4,7 @@
 
 # Para la auth use jsonwebtoken
 
-# Este proyecto esta en heroku
+# Este proyecto esta en heroku https://srpago-api.herokuapp.com/
 
 ## Api Documentacion
 
@@ -25,3 +25,5 @@
 # /api/users/signup Post SignUp
 
 # /api/users/profile Get User Profile
+
+#Crear archivo env con las variables de mongoDB, PORT, NODE_ENV Y JWT_SECRET
